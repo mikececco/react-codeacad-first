@@ -1,0 +1,9 @@
+input.search {
+  padding: 12px 10px;
+  width: 30vw;
+  border: none;
+  outline: none;
+  margin: 10px auto;
+  display: flex;
+  border-radius: 15px;
+}

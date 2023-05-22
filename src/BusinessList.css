@@ -6,3 +6,11 @@
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
+.cards-list {
+  z-index: 0;
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

@@ -5,8 +5,12 @@ import './BusinessList.css';
 function BusinessList(){
   return (
     <div className="container">
-      <Business />
-      <Business />
+      <div className="cards-list">
+        <ul>
+          <Business />
+          <Business />
+        </ul>
+      </div>
     </div>
   )
 }
